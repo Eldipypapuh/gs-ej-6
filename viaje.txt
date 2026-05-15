@@ -1,2 +1,4 @@
 Comienza el viaje
 Visitamos una ciudad
+
+Seguimos recorriendo la ciudad
